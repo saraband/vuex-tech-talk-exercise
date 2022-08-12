@@ -1,4 +1,4 @@
-# exercice-blank
+# Vuex tech talk - exercice
 
 ## Project setup
 ```
